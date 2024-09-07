@@ -25,7 +25,7 @@ This Employee Management System is a Java-based application that provides functi
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/employee-management-system.git
+   git clone https://github.com/l-negha/Employee-management.git
 
 2. **Navigate to Project Directory**
 
@@ -44,20 +44,15 @@ Run the Application
 4.**Navigate to the bin directory and run the main class** 
 bash
 Copy code
-java MainClass
-5.**Configuration**
-Database Connection: Ensure that the database connection details are correctly configured in your connection files. Update the database URL, username, and password as needed.
+java Employee-management
+
+
+
 **Usage**
 Login: Start the application and log in with your credentials.
 Add Employee: Navigate to the add employee section and enter the necessary details.
 Remove/Delete Employee: Select the employee you wish to remove or delete.
 Update Employee: Select an employee and update their information as required.
-**Contributing**
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
 
 
 Contact
