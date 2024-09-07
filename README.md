@@ -30,20 +30,22 @@ This Employee Management System is a Java-based application that provides functi
 2. **Navigate to Project Directory**
 
 bash
-Copy code
+
 cd employee-management-system
+
 Compile the Java Files
 
 3.**Ensure you have Java Development Kit (JDK) installed**. Compile the Java files using:
 
 bash
-Copy code
+
 javac -d bin src/**/*.java
+
 Run the Application
 
 4.**Navigate to the bin directory and run the main class** 
 bash
-Copy code
+
 java Employee-management
 
 
